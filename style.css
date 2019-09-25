@@ -17,6 +17,10 @@ img {
 	margin: 10px;
 }
 
+legend {
+	padding-bottom: 25px;
+}
+
 .hidden {
 	display: none;
 	flex-wrap: wrap;
